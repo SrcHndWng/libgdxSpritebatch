@@ -16,3 +16,6 @@
 
 のSpriteBatch、Texture、TextureRegionまでを実装したもの。
 
+* v2.x.x
+
+Sprite、Tintingを実装したもの。
